@@ -40,7 +40,7 @@ Color-Palette-Generator/
 
 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- You can fix the project and submit a pull request.
+- Feel free to fork the project and submit a pull request.
 
 👩‍💻 Author
 - Sapna Mehar ✨
