@@ -14,7 +14,7 @@ Click the **Generate Palette** button to create random color schemes, and copy a
 ---
 
 ## 🚀 Demo
-![App Preview](color-palette-generator-hi8wvoco7-sapna-mehars-projects.vercel.app)
+[Click here to view the app on Vercel](https://color-palette-generator-hi8wvoco7-sapna-mehars-projects.vercel.app)
 ---
 
 ## 🛠️ Tech Stack
