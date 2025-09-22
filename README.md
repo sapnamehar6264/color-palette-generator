@@ -39,11 +39,8 @@ Color-Palette-Generator/
 3. Click Generate Palette to explore colors!
 
 🤝 Contributing
----
-Contributions, issues, and feature requests are welcome!
----
-You can fix the project and submit a pull request.
+- Contributions, issues, and feature requests are welcome!
+- You can fix the project and submit a pull request.
 
 👩‍💻 Author
----
-Sapna Mehar ✨
+- Sapna Mehar ✨
